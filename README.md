@@ -1,5 +1,7 @@
 # E-commerce-Project
 
+# Comment-2
+
 ## 📋 Overview
 
 This project is a robust, scalable e-commerce platform built using Python, Django, SQL, HTML, and CSS. The goal of this project is to provide a comprehensive online shopping experience, from product browsing to secure checkout. This platform is designed to be user-friendly for both customers and administrators, ensuring an efficient and enjoyable experience for all users.
