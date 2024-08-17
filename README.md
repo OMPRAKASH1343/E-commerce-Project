@@ -1,8 +1,5 @@
 
-Commit
 # E-commerce-Project
-
- Comment-2
 
 ## 📋 Overview
 
